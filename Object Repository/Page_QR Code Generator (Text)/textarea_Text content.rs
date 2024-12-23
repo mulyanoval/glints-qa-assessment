@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Text content</name>
+   <tag></tag>
+   <elementGuidId>e3012bd7-75e3-4f8a-8de0-1e85d609ac8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.gwt-TextArea.required</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='leftpanel']/tbody/tr[2]/td/table/tbody/tr/td[2]/textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>67d1ae40-2541-499e-8df9-866ffd9bbe2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gwt-TextArea required</value>
+      <webElementGuid>c595e006-5d95-4a9e-a73e-9b4c1d17aeec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>9c4f963d-1594-40ac-9192-591152b697e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;leftpanel&quot;)/tbody[1]/tr[2]/td[1]/table[1]/tbody[1]/tr[1]/td[@class=&quot;secondColumn&quot;]/textarea[@class=&quot;gwt-TextArea required&quot;]</value>
+      <webElementGuid>6884f79c-c4e2-49de-b0d7-37ea1e02704f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='leftpanel']/tbody/tr[2]/td/table/tbody/tr/td[2]/textarea</value>
+      <webElementGuid>4f44ff7e-4c83-4156-aac4-6a8695ec8bfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>41e2d896-5b53-42b6-aa7d-e3f7850f84a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

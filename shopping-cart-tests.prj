@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>shopping-cart-tests</name>
+   <name>qr-code-generator</name>
    <tag></tag>
-   <UUID>052f4412-8190-4f05-b35a-5dd184aacaff</UUID>
+   <UUID>3e00d1c8-e8fe-43b6-992f-e9ce094f576f</UUID>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\lieuhuynh\Katalon Studio\Shopping Cart Testing\shopping-cart-tests.prj</projectFileLocation>
+   <projectFileLocation>E:\Documents\Job Application\Glints\Katalon\Glints_QA_Assessment\shopping-cart-tests.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
@@ -25,5 +26,6 @@
          </systemFolderConfiguration>
       </systemFolderList>
    </sourceContent>
+   <timeStampInProperties>true</timeStampInProperties>
    <type>WEBUI</type>
 </Project>
